@@ -1,0 +1,21 @@
+{
+  "run": {
+    "command": "nx serve",
+    "startTime": "2025-11-05T16:52:25.110Z",
+    "endTime": "2025-11-05T16:52:28.083Z",
+    "inner": false
+  },
+  "tasks": [
+    {
+      "taskId": "shopping-cart:serve:development",
+      "target": "serve",
+      "projectName": "shopping-cart",
+      "hash": "8440453617697451143",
+      "startTime": "2025-11-05T16:52:25.121Z",
+      "endTime": "2025-11-05T16:52:28.080Z",
+      "params": "",
+      "cacheStatus": "cache-miss",
+      "status": 1
+    }
+  ]
+}
