@@ -1939,3 +1939,40 @@ Time for 'build typescript dependencies' 1.0619000000879169
 [NX v22.0.2 Daemon Server] - 2025-11-12T19:51:55.486Z - [WATCHER]: Stopping the watcher for c:\Users\tuando\Desktop\study\shopping-cart (sources)
 [NX v22.0.2 Daemon Server] - 2025-11-12T19:51:55.487Z - [WATCHER]: Stopping the watcher for c:\Users\tuando\Desktop\study\shopping-cart (outputs)
 [NX v22.0.2 Daemon Server] - 2025-11-12T19:51:55.511Z - Server stopped because: "10800000ms of inactivity"
+[NX v22.0.2 Daemon Server] - 2025-11-12T19:53:40.549Z - Started listening on: \\.\pipe\nx\C:\Users\tuando\AppData\Local\Temp\eb53d73955d0272ee341\d.sock
+[NX v22.0.2 Daemon Server] - 2025-11-12T19:53:40.562Z - [WATCHER]: Subscribed to changes within: c:\Users\tuando\Desktop\study\shopping-cart (native)
+[NX v22.0.2 Daemon Server] - 2025-11-12T19:53:40.575Z - Established a connection. Number of open connections: 1
+[NX v22.0.2 Daemon Server] - 2025-11-12T19:53:40.593Z - Closed a connection. Number of open connections: 0
+[NX v22.0.2 Daemon Server] - 2025-11-12T19:53:40.833Z - Established a connection. Number of open connections: 1
+[NX v22.0.2 Daemon Server] - 2025-11-12T19:53:40.834Z - Established a connection. Number of open connections: 2
+[NX v22.0.2 Daemon Server] - 2025-11-12T19:53:40.835Z - Time taken for 'loadSpecifiedNxPlugins' 19.478000000000065ms
+[NX v22.0.2 Daemon Server] - 2025-11-12T19:53:40.835Z - Closed a connection. Number of open connections: 1
+[NX v22.0.2 Daemon Server] - 2025-11-12T19:53:40.842Z - [REQUEST]: Client Request for Project Graph Received
+Time for 'plugin worker 16668 code loading' 96.24220000000001
+Time for 'plugin worker 29216 code loading' 38.20800000000001
+Time for 'plugin worker 49220 code loading' 52.40310000000001
+Time for 'plugin worker 50764 code loading' 49.00059999999999
+[NX v22.0.2 Daemon Server] - 2025-11-12T19:53:41.516Z - Time taken for 'Load Nx Plugin: c:\Users\tuando\Desktop\study\shopping-cart\node_modules\nx\src\adapter\angular-json' 835.8561ms
+[NX v22.0.2 Daemon Server] - 2025-11-12T19:53:41.862Z - Time taken for 'Load Nx Plugin: c:\Users\tuando\Desktop\study\shopping-cart\node_modules\nx\src\plugins\package-json' 1178.9065ms
+[NX v22.0.2 Daemon Server] - 2025-11-12T19:53:41.878Z - Time taken for 'Load Nx Plugin: c:\Users\tuando\Desktop\study\shopping-cart\node_modules\nx\src\plugins\project-json\build-nodes\project-json' 1190.7045999999998ms
+[NX v22.0.2 Daemon Server] - 2025-11-12T19:53:41.975Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX v22.0.2 Daemon Server] - 2025-11-12T19:53:41.975Z - [REQUEST]: 
+[NX v22.0.2 Daemon Server] - 2025-11-12T19:53:41.975Z - [REQUEST]: 
+[NX v22.0.2 Daemon Server] - 2025-11-12T19:53:41.978Z - Reusing in-memory cached project graph because no files changed.
+Time for 'nx-angular-json-plugin:createNodes' 1.247000000000071
+[NX v22.0.2 Daemon Server] - 2025-11-12T19:53:41.988Z - Time taken for 'loadDefaultNxPlugins' 1299.4157ms
+Time for 'nx/core/project-json:createNodes' 1.7674999999999272
+Time for 'nx/core/package-json:createNodes' 5.882200000000012
+Time for 'nx/js/dependencies-and-lockfile:createNodes' 15.60810000000015
+[NX v22.0.2 Daemon Server] - 2025-11-12T19:53:42.074Z - Time taken for 'build-project-configs' 56.846000000000004ms
+Time for 'build typescript dependencies' 0.3138000000001284
+[NX v22.0.2 Daemon Server] - 2025-11-12T19:53:42.102Z - [SYNC]: collect registered sync generators
+[NX v22.0.2 Daemon Server] - 2025-11-12T19:53:42.117Z - Wrote project graph cache to c:\Users\tuando\Desktop\study\shopping-cart\.nx\workspace-data\project-graph.json
+[NX v22.0.2 Daemon Server] - 2025-11-12T19:53:42.117Z - [REQUEST]: Responding to the client. project-graph
+[NX v22.0.2 Daemon Server] - 2025-11-12T19:53:42.118Z - Time taken for 'total for creating and serializing project graph' 1274.9144000000001ms
+[NX v22.0.2 Daemon Server] - 2025-11-12T19:53:42.146Z - Done responding to the client project-graph
+[NX v22.0.2 Daemon Server] - 2025-11-12T19:53:42.146Z - Handled json message REQUEST_PROJECT_GRAPH. Handling time: 1275. Response time: 29.
+[NX v22.0.2 Daemon Server] - 2025-11-12T19:53:42.167Z - [REQUEST]: Responding to the client. handleContextFileData
+[NX v22.0.2 Daemon Server] - 2025-11-12T19:53:42.171Z - Done responding to the client handleContextFileData
+[NX v22.0.2 Daemon Server] - 2025-11-12T19:53:42.171Z - Handled json message GET_CONTEXT_FILE_DATA. Handling time: 1. Response time: 4.
+[NX v22.0.2 Daemon Server] - 2025-11-12T19:53:42.172Z - Closed a connection. Number of open connections: 0
