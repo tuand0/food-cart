@@ -13,7 +13,7 @@
         },
         {
           "file": ".gitignore",
-          "hash": "10175894702052279752"
+          "hash": "16073467476795752723"
         },
         {
           "file": ".vscode/extensions.json",
@@ -37,7 +37,7 @@
         },
         {
           "file": "nx.json",
-          "hash": "3775371859539947623"
+          "hash": "1838268432790263222"
         },
         {
           "file": "package-lock.json",
@@ -72,11 +72,35 @@
         },
         {
           "file": "project.json",
-          "hash": "5457829234516077450"
+          "hash": "10307729083092548173"
         },
         {
           "file": "public/favicon.ico",
           "hash": "3988961587069885523"
+        },
+        {
+          "file": "public/images/0.jpg",
+          "hash": "3932177925043083679"
+        },
+        {
+          "file": "public/images/1.jpg",
+          "hash": "2373450368499222083"
+        },
+        {
+          "file": "public/images/2.jpg",
+          "hash": "10085533459623101135"
+        },
+        {
+          "file": "public/images/3.jpg",
+          "hash": "3907050541774035800"
+        },
+        {
+          "file": "public/images/4.jpg",
+          "hash": "17290044057694103072"
+        },
+        {
+          "file": "public/images/5.jpg",
+          "hash": "3358926626552914275"
         },
         {
           "file": "src/app/app.component.css",
@@ -112,19 +136,19 @@
         },
         {
           "file": "src/app/home/home.component.css",
-          "hash": "3244421341483603138"
+          "hash": "14365768368814999709"
         },
         {
           "file": "src/app/home/home.component.html",
-          "hash": "16619066491338721079"
-        },
-        {
-          "file": "src/app/home/home.component.spec.ts",
-          "hash": "2683587061765069593"
+          "hash": "7235802185158606178"
         },
         {
           "file": "src/app/home/home.component.ts",
-          "hash": "9071807304367974672"
+          "hash": "12869001638937435334"
+        },
+        {
+          "file": "src/app/services/food/food.service.ts",
+          "hash": "9497811532918706139"
         },
         {
           "file": "src/index.html",
@@ -136,7 +160,7 @@
         },
         {
           "file": "src/styles.css",
-          "hash": "5411019345294883523"
+          "hash": "6098505363947777869"
         },
         {
           "file": "tsconfig.app.json",
